@@ -14,3 +14,12 @@
 !var/SymfonyRequirements.php
 /vendor/
 /web/bundles/
+.idea
+*~
+DS_S*
+.DS_Store
+/node_modules
+node_modules/
+/sgobf/*
+!.keep
+dump.rdb
